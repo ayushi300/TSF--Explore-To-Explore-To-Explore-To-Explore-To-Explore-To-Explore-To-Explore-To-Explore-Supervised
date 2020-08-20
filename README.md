@@ -1,1 +1,1 @@
-# TSF--Explore-To-Explore-To-Explore-To-Explore-To-Explore-To-Explore-To-Explore-To-Explore-Supervised
+# TSF--Supervised Learning
